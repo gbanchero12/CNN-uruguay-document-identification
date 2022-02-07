@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "9a56f639-22e0-4919-8953-ce1d7420c92d",
+		"name": "random",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Api_Marvik_Postman_test",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"booleanParam\": true}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "45.61.54.206",
+					"host": [
+						"45",
+						"61",
+						"54",
+						"206"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
